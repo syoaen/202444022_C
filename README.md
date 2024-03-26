@@ -19,4 +19,5 @@ int main(void)
     printf("6. int형 변수: %d바이트\n", sizeof(num2) * 8);
     printf("7. long long형 변수: %d바이트\n", sizeof(num3) * 8);
     printf("8. long형 변수: %d바이트\n", sizeof(num4) * 8);
+    return 0;
 }
